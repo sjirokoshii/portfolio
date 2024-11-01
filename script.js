@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
-    const typewriterText = ["hello, ", "athierah", " here"];
+    const typewriterText = ["hello, ", "athierah", " here", "🎧"];
     let i = 0;
     let j = 0;
     const speed = 100; // Speed in milliseconds
