@@ -294,8 +294,8 @@ footer p {
 }
 
 .bottom-section {
-	display: flex;
-	gap: 15px;
+	display: inline-flex;
+	gap: 30px;
 	max-width: 800px;
 	width:70%;
 }
