@@ -231,14 +231,14 @@ footer p {
 
 .skill span {
     flex: 1;
-    margin-right: 10px;
-    text-align: left; /* Align text to the left */
-	color: #b9edcb;
+    margin-right: 15px;
+    text-align: -webkit-center; /* Align text to the left */
+	color: #ccd6f6;
 }
 
 .progress-bar-container {
     flex: 3;
-    background-color: #e0e0e0;
+    background-color: #f5f3f2;
     border-radius: 5px;
     overflow: hidden;
     height: 15px; /* Adjust the height of the progress bar */
@@ -246,7 +246,7 @@ footer p {
 
 .progress-bar {
     height: 100%;
-    background-color: #1f5e34; /* Change this color as needed */
+    background-color: #f891bb; /* Change this color as needed */
 }
 .slider-container {
     position: relative;
