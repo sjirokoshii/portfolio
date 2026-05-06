@@ -7,8 +7,8 @@ body {
     font-family: 'Quicksand', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #0a192f;
-    color: #64ffda;
+    background-color: #0285a48;
+    color: #f891bb;
 	padding-top: 60px;
 }
 
@@ -24,7 +24,7 @@ body {
     color: #389df5; 
 }
 header {
-    background-color: #0a192f;
+    background-color: #285a48;
     width: 100%;
     text-align: center;
     padding: 2em 0;
@@ -39,7 +39,7 @@ header {
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	gap:50px;
+	gap: 40px;
 	flex: 1;
 	text-align: left;
 }
@@ -52,7 +52,7 @@ header {
 /* Digital Clock */
 .digital-clock {
     font-family: 'Quicksand', calibri;
-    color: #9c814f;
+    color: #f891bb;
     font-size: 48px;
     text-align: center;
     margin-top: 40px;
@@ -67,7 +67,7 @@ header h1 {
 }
 
 nav {
-    background-color: #0a192f;
+    background-color: #091413;
     width: 100%;
     padding: 0em 0;
     text-align: center;
@@ -96,7 +96,7 @@ nav ul li a {
 }
 
 section {
-    padding: 2em;
+    padding: 1em;
     max-width: 800px;
     width: 100%;
     text-align: center;
